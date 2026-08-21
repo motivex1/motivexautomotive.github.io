@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://motivex1.github.io/motivexautomotive.github.io/sitemap.xml
